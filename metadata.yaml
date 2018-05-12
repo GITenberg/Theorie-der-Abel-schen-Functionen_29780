@@ -1,0 +1,32 @@
+_repo: Theorie-der-Abel-schen-Functionen_29780
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Weierstrass, Karl
+    aliases:
+    - Weierstrass, K. (Karl)
+    - Weierstrass, Karl Theodor Wilhelm
+    birthdate: 1815
+    deathdate: 1897
+    gutenberg_agent_id: '34161'
+    url: http://www.gutenberg.org/2009/agents/34161
+description: ''
+gutenberg_bookshelf:
+- Mathematics
+- DE Sachbuch
+gutenberg_issued: '2009-08-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29780'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Functions, Abelian'
+- !lcc 'QA'
+title: Theorie der Abel'schen Functionen
+url: http://www.gutenberg.org/ebooks/29780
